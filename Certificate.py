@@ -19,7 +19,7 @@ class Example(QWidget):
         # Первоначальные настройки
         self.setGeometry(0, 0, self.screen.width(), self.screen.height())
         self.showMaximized()
-        self.setWindowTitle('Sertificat')
+        self.setWindowTitle('Certificate')
 
         # создаем рабочую область
         grid = QGridLayout()
