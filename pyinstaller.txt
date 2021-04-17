@@ -1,0 +1,1 @@
+pyintaller --noconsole --add-data "first.jpg;image" --add-data "second.jpg;image" --add-data "Appetite_Medium.otf;font" --add-data "arial_bold.ttf;font" --icon=icon.ico Sertificat.py
